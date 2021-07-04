@@ -13,6 +13,7 @@
     <li><code>UserInfo::getLang;</code> Obtiene el lenguaje del visitante | retorna  un string</li>
     <li><code>UserInfo::getReferer;</code> Obtiene desde donde te visita el usuario | retorna  un string</li>
     <li><code>UserInfo::getHeaders;</code> Obtiene todas las cabezeras del visitante | retorna  un string</li>
-    <li><code>UserInfo::getAllBrowserInfo;</code> Obtiene la ip, agente de usuario, sistema operativo, navegador, version del navegador, lenguaje y referer del visitante | retorna  un array</li>
-</ul>
+    <li><code>UserInfo::getAllBrowserInfo;</code> Obtiene la ip, agente de usuario, sistema operativo, navegador, 
+      version del navegador, lenguaje y referer del visitante | retorna  un array</li>
+  </ul>
 </p>
