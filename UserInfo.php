@@ -2,7 +2,7 @@
 /**
  * Get information about who visits your website
  * @package UserInfo
- * @author @k3map {t.me/@k3map}
+ * @author @k3map {t.me/k3map}
  * @version 1.0
  * @copyright Copyright (c) 2021 K3map
  * @link https://github.com/k3map/UserInfo-PHP-
@@ -201,7 +201,7 @@ class UserInfo
 
     /**
      * Get all User information
-     * @return string
+     * @return array
      */
     public static function getAllBrowserInfo()
     {
